@@ -4,10 +4,19 @@
         <title>田鑫鑫的个人网站 Blog</title>
         <link>https://mokeytian.github.io/blog</link>
         <description>田鑫鑫的个人网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴诗]]></title>
+            <link>https://mokeytian.github.io/blog/happy</link>
+            <guid>https://mokeytian.github.io/blog/happy</guid>
+            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>我们大家来上课，老师讲的真不错</h1>]]></content:encoded>
+            <category>散文</category>
+            <category>诗，田鑫鑫</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://mokeytian.github.io/blog/welcome</link>
